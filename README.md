@@ -97,6 +97,30 @@ Customers are scored across three dimensions — **Recency**, **Frequency**, and
 
 ---
 
+## 🔍 Analysis Deep Dive
+
+**Business Overview — Revenue, Orders & Geographic Distribution**
+![Business Overview](img/business_overview.png)
+Monthly revenue trend across 2 years, top 10 countries by revenue, order volume evolution, and Pareto distribution showing the top 20% of customers generating 77% of revenue.
+
+**RFM Customer Segmentation**
+![RFM Segmentation](img/rfm_segmentation.png)
+7 behavioral segments built from Recency, Frequency and Monetary scoring. Champions (1,300 customers) account for 68.4% of total revenue while representing only 22% of the customer base.
+
+**Customer Retention — Cohort Analysis**
+![Cohort Analysis](img/cohort_analysis.png)
+Month-by-month retention heatmap from Dec 2009 to Dec 2011. Average Month-1 retention: 21.2%, stabilizing around 15–18% by Month 6 — revealing a critical retention window in the first 90 days.
+
+**Customer Lifetime Value Analysis**
+![CLV Analysis](img/clv_analysis.png)
+12-month CLV projection per segment, CLV distribution across the customer base (median $2,208), total revenue opportunity by segment, and the Marketing Action Matrix mapping CLV vs customer count.
+
+**Executive Summary & Revenue Opportunities**
+![Executive Summary](img/executive_summary.png)
+Consolidated view: segmentation summary with recommended actions per segment, and conservative revenue opportunity analysis showing $1.13M in identifiable upside from targeted campaigns.
+
+---
+
 ## 📊 Dashboard
 
 Two-page Power BI dashboard designed for different stakeholder audiences:

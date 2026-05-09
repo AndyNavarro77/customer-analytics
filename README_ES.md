@@ -97,6 +97,30 @@ Los clientes son puntuados en tres dimensiones — **Recencia**, **Frecuencia** 
 
 ---
 
+## 🔍 Análisis en Detalle
+
+**Business Overview — Revenue, Órdenes y Distribución Geográfica**
+![Business Overview](img/business_overview.png)
+Tendencia de revenue mensual a lo largo de 2 años, top 10 países por revenue, evolución del volumen de órdenes y distribución Pareto mostrando que el 20% superior de clientes genera el 77% del revenue.
+
+**Segmentación RFM de Clientes**
+![RFM Segmentation](img/rfm_segmentation.png)
+7 segmentos de comportamiento construidos a partir del scoring de Recencia, Frecuencia y Valor Monetario. Los Champions (1.300 clientes) representan el 68,4% del revenue total siendo solo el 22% de la base de clientes.
+
+**Retención de Clientes — Análisis de Cohortes**
+![Cohort Analysis](img/cohort_analysis.png)
+Heatmap de retención mes a mes desde diciembre 2009 hasta diciembre 2011. Retención promedio Mes 1: 21,2%, estabilizándose alrededor del 15–18% en el Mes 6 — revelando una ventana crítica de retención en los primeros 90 días.
+
+**Análisis de Customer Lifetime Value**
+![CLV Analysis](img/clv_analysis.png)
+Proyección de CLV a 12 meses por segmento, distribución del CLV en la base de clientes (mediana $2.208), oportunidad de revenue total por segmento y la Marketing Action Matrix mapeando CLV vs cantidad de clientes.
+
+**Resumen Ejecutivo & Oportunidades de Revenue**
+![Executive Summary](img/executive_summary.png)
+Vista consolidada: resumen de segmentación con acciones recomendadas por segmento y análisis conservador de oportunidad de revenue mostrando $1,13M en upside identificable a partir de campañas segmentadas.
+
+---
+
 ## 📊 Dashboard
 
 Dashboard de Power BI de dos páginas diseñado para distintas audiencias:
