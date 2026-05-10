@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)](https://mysql.com)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://powerbi.microsoft.com)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Segmentation-red?logo=scikitlearn)](https://scikit-learn.org)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
 ---
